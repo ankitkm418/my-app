@@ -1,0 +1,23 @@
+header {
+    position: relative;
+    background-color: rgb(91, 176, 190);
+    background-image: url(1.jpg);
+    opacity: 0.4;
+}
+
+h2,
+h3 {
+    margin-left: 15%;
+}
+
+label {
+    margin-left: 15%;
+}
+
+button {
+    float: right;
+    margin-right: 10%;
+    background-color: yellow;
+    text-decoration: : none;
+    ;
+}
